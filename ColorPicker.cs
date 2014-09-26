@@ -18,6 +18,8 @@ namespace CAS.ColorPicker
 
         #endregion        
 
+        //test
+
         #region Public Properties
 
         [Bindable(true)]
